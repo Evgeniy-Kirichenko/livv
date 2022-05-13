@@ -2,6 +2,10 @@ package An;
 //добавил новый класс
 class Rutyn{
 }
+//добавил еще новый класс
+class Stront{
+ System.out.println("Появилось окно");
+}
 
 class AntWH {
     public static void main(String[] args) {
