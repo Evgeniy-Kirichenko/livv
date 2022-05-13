@@ -1,4 +1,7 @@
 package An;
+//добавил новый класс
+class Rutyn{
+}
 
 class AntWH {
     public static void main(String[] args) {
